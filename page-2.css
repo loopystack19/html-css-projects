@@ -1,0 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+h1{
+    color: var(--h1-color);
+}
+h2{
+    color: var(--h2-color);
+}
+footer{
+    color: var(--footer-text);
+    background-color: var(--footer-background-color);
+}
+:root{
+
+    --h1-color:#4676A9;
+    --h2-color:#CB721C;
+    --footer-background-color:#22466C;
+    --footer-text:#fff;
+}
