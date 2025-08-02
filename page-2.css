@@ -3,6 +3,9 @@
     padding: 0;
     box-sizing: border-box;
 }
+header{
+    text-align: center;
+}
 h1{
     color: var(--h1-color);
 }
